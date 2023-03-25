@@ -22,3 +22,21 @@ hr {
   max-width: 65px;
   opacity: 1;  
 }
+
+.btn {
+  font-weight: 700;
+  border-radius: 300px;
+  text-transform: uppercase;
+}
+
+.btn-primary {
+  background-color: #F05F44;
+  border-color: #F05F44;
+  --bs-bnt-hover-bg:#ee4b08;
+  --bs-bnt-hover-border-color: #ee4b08; 
+}
+
+.btn-xl {
+  padding: 1rem 2rem;
+}
+
